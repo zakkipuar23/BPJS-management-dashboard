@@ -1,4 +1,4 @@
 # BPJS Management Dashboard
 ### BPJS is a health insurance company in Indonesia. This was my team submission when we join BPJS visualthon (data visualization hackathon). 
 ### Before creating the dashboard, I learned about balance scorecard of BPJS that was made by my father as their consultant. It's important so we could know how is their strategy map, what is their priority, etc. Please refer to pdf file with name : "BPJS Balance Scorecard 28 Juni 2013" and "BPJS Review 2015"
-To see the dashboard and its explanation, please refer to pdf file with name "Proposal BPJS Visualthon - 3 Daiyamondo". As the result, we got 4th rank amoung around 400 participants
+To see the dashboard and its explanation, please refer to pdf file with name "Proposal BPJS Visualthon - 3 Daiyamondo", and you also could directly visit the dashboard in this [link](https://app.powerbi.com/view?r=eyJrIjoiYjUwNzk0MzQtN2E4Ni00M2E5LWJmMmUtMzhiODJiZTMwOTBiIiwidCI6IjlmM2VmYzI2LWVlYTMtNDVlMC05YTMzLWJkZDk2YmJjN2Y2NyIsImMiOjEwfQ%3D%3D&pageName=ReportSection5729c22420acc0f7c17c) . As the result, we got **4th rank amoung around 400 participants**
